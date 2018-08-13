@@ -1,5 +1,5 @@
-## Ready To Git!
+# Ready To Git!
 Just a project to learn how to use git!
 
-# Intro
+## Intro
 TODO!
